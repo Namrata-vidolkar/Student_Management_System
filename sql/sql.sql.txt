@@ -1,0 +1,3 @@
+create database stuMgmt;
+
+create table stu(id int auto_increment, primary key(id),name text,gmail text,roll text,batch text);
