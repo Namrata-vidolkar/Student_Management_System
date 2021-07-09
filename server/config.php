@@ -2,7 +2,7 @@
 
 $ServerName = "Localhost";
 $UserName = "root";
-$Password = "namrata";
+$Password = "";
 $database = "stumgmt";
 
 ?>
